@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 The Legend of John Henry's Hammer.mp3";		
+f[2]	= "02 Tell Him I'm Gone.mp3";		
+f[3]	= "03 Another Man Done Gone.mp3";		
+f[4]	= "05 Casey Jones.mp3";		
+f[5]	= "06 Nine Pound Hammer.mp3";		
+f[6]	= "07 Chain Gang.mp3";		
+f[7]	= "08 Waiting for a Train.mp3";		
+f[8]	= "Busted.mp3";		
+f[9]	= "Roughneck.mp3";		
