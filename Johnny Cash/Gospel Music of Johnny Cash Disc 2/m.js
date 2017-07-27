@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Won't Have to Cross Jordan Alone.mp3";		
+f[2]	= "02 The Old Account Was Settled Long Ago.mp3";		
+f[3]	= "03 Far Side Banks of Jordan.mp3";		
+f[4]	= "04 Farther Along.mp3";		
+f[5]	= "05 Matthew 24 (Is Knocking at the Door).mp3";		
+f[6]	= "06 Ragged Old Flag.mp3";		
+f[7]	= "07 Were You There (When They Crucified My Lord).mp3";		
+f[8]	= "08 It Is No Secret.mp3";		
+f[9]	= "09 Angel Band.mp3";		
+f[10]	= "10 My Children Walk in Truth.mp3";		
+f[11]	= "11 In the Sweet By and By.mp3";		
+f[12]	= "12 God's Hands.mp3";		
