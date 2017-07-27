@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 A Letter Home Intro.mp3";		
+f[2]	= "03 Girl from the North Country.mp3";		
+f[3]	= "04 Needle of Death.mp3";		
+f[4]	= "05 Early Morning Rain.mp3";		
+f[5]	= "06 Crazy-A Letter Home Intro -2.mp3";		
+f[6]	= "07 Reason To Believe.mp3";		
+f[7]	= "08 On the Road Again.mp3";		
+f[8]	= "09 If You Could Read My Mind.mp3";		
+f[9]	= "10 Since I Met You Baby.mp3";		
+f[10]	= "11 My Hometown [-].mp3";		
+f[11]	= "12 I Wonder If I Care As Much [-].mp3";		
+f[12]	= "Changes.mp3";		
