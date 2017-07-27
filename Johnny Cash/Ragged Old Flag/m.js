@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Ragged Old Flag.mp3";		
+f[2]	= "02 Don't Go Near the Water.mp3";		
+f[3]	= "03 All I Do Is Drive.mp3";		
+f[4]	= "04 Southern Comfort.mp3";		
+f[5]	= "05 King of the Hill.mp3";		
+f[6]	= "06 Pie in the Sky.mp3";		
+f[7]	= "07 Lonesome to the Bone.mp3";		
+f[8]	= "08 While I've Got It on My Mind.mp3";		
+f[9]	= "09 Good Morning, Friend.mp3";		
+f[10]	= "10 I'm a Worried Man.mp3";		
+f[11]	= "11 Please Don't Let Me Out.mp3";		
+f[12]	= "12 What on Earth Will You Do (For Heaven's Sake).mp3";		
