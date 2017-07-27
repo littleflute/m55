@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Love Is Mystical.mp3";		
+f[2]	= "02 Can We Hang On-.mp3";		
+f[3]	= "03 So Tied Up.mp3";		
+f[4]	= "05 L.A. River.mp3";		
+f[5]	= "06 No Reason To Run.mp3";		
+f[6]	= "07 Open Up the Heavens.mp3";		
+f[7]	= "09 Wilshire Protest.mp3";		
+f[8]	= "10 Luck Down.mp3";		
+f[9]	= "11 Ordinary Idols.mp3";		
+f[10]	= "12 Cameras Always On.mp3";		
+f[11]	= "13 Part of the Night.mp3";		
+f[12]	= "14 Free To Breathe.mp3";		
+f[13]	= "Invincible.mp3";		
+f[14]	= "Restless.mp3";		
