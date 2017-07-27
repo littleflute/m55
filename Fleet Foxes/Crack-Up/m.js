@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Am All That I Need-Arroyo Seco-Thumbprint Scar.mp3";		
+f[2]	= "03 Naiads, Cassadies.mp3";		
+f[3]	= "04 Kept Woman.mp3";		
+f[4]	= "05 Third of May-Odaigahara.mp3";		
+f[5]	= "06 If You Need To, Keep Time on Me.mp3";		
+f[6]	= "08 On Another Ocean (January-June).mp3";		
+f[7]	= "09 Fool's Errand.mp3";		
+f[8]	= "10 I Should See Memphis.mp3";		
+f[9]	= "Cassius.mp3";		
+f[10]	= "Crack-Up.mp3";		
+f[11]	= "Mearcstapa.mp3";		
