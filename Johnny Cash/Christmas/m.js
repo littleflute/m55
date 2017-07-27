@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Blue Christmas.mp3";		
+f[2]	= "02 Silent Night.mp3";		
+f[3]	= "03 Figgy Pudding.mp3";		
+f[4]	= "04 Here Was a Man.mp3";		
+f[5]	= "05 Joy to the World.mp3";		
+f[6]	= "06 O Little Town of Bethlehem.mp3";		
+f[7]	= "07 What Child Is This-.mp3";		
+f[8]	= "08 The First Noel.mp3";		
+f[9]	= "09 Away in a Manger.mp3";		
+f[10]	= "10 O Christmas Tree.mp3";		
+f[11]	= "11 O Come All Ye Faithful.mp3";		
+f[12]	= "12 It Came Upon a Midnight Clear.mp3";		
+f[13]	= "13 Hark The Herald Angels Sing.mp3";		
